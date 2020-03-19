@@ -1,0 +1,8 @@
+let names = [
+	"Takuto",
+	"Hotaka",
+	"Futa Takahashi",
+];
+for (let name in names) {
+	alert(name);
+}

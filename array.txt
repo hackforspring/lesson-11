@@ -1,0 +1,11 @@
+let names = [
+	"Takuto",
+	"Hotaka",
+	"Futa Takahashi",
+];
+
+alert(names[1]);
+
+names[1] = "Kosei";
+
+alert(names[1]);
